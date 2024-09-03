@@ -11,7 +11,7 @@
 ░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝  ░░░░░░  ╚═╝░░░░░╚═╝╚═════╝░
 
 
-* Project name - VAJIRA- MD 
+* Project name - CHANUKA- MD 
 * Author - Vajira Rathnayaka
 * Team - Technical Cybers 
 * Version - V6
